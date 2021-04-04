@@ -1,5 +1,5 @@
 for the task 0 :
 
 I've used this commands :
-->ssh ubuntu@35.237.105.164
+->ssh ubuntu@myIp
 ->sudo reboot 
