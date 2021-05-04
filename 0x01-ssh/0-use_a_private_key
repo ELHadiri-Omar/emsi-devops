@@ -1,5 +1,3 @@
-for the task 0 :
-
-I've used this commands :
-->ssh ubuntu@myIp
-->sudo reboot 
+#!/usr/bin/env bash
+# bash script for ssh connection
+ssh -i ~/.ssh/holberton ubuntu@35.237.105.164
